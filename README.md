@@ -29,7 +29,7 @@
 </ul>
 
 <h2>Como Acessar a Aplicação</h2>
-<p>Acesse a aplicação por meio do link: <a href="https://balancebm.vercel.app" target="_blank">clique aqui</a></p>
+<p>Acesse a aplicação por meio do link: <a href="https://balance-zol.vercel.app" target="_blank">clique aqui</a></p>
 
 <h2><em>Screenshots</em></h2>
 <img src="https://github.com/user-attachments/assets/864d718b-ea7a-4d7d-b0b4-0965030ecbcf" />
